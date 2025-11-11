@@ -32,7 +32,7 @@ At a high level I attended the following sessions:
 
 Here are some of my high level thoughts on various sessions. My apologies as I did not take detailed notes this year because… a lot of the sessions just were not very informative or new or exciting. 
 
-- The Thursday keynote was well executed for the audience. I think Rachel is a great person and she does fantastic work in cybersecurity. She also has such a unique way of teaching. It just didn’t translate to a keynote. 
+- The Thursday keynote was not well executed for the audience. I think Rachel is a great person and she does fantastic work in cybersecurity. She also has such a unique way of teaching. It just didn’t translate to a keynote. 
 - Andrew gave a good talk that can be summed up as “Attackers like to use LLMs for attacking.” Not a ton of new information that can be turned into action.
 - Holly’s talk was good on content but at the end of the day it was just a pitch for the vendor. If the question is “Should we have governance over data?” then the answer is “Yes” and here is a product/vendor to help. 
 - Same for Micah’s OWASP talk. At the end of the day it’s a pitch for Snyk.io. 
